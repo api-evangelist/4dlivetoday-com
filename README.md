@@ -66,7 +66,7 @@
 
 4D Live Today provides real-time lottery results for Malaysia and Singapore, covering operators such as Magnum, Da Ma Cai, Sports Toto, and more. The site offers draw schedules, number lookups, dream number dictionaries, and special draw information, with multilingual support (English, Bahasa Malaysia, 中文). It also integrates Telegram channels for live updates and offers a mini‑app for easy access to results.
 
-**Areas:** Results · Malaysia · Singapore · Number lookup
+**Areas:** Results · Malaysia · Singapore · Number Lookup
 
 ## 4D Live Today on APIs.io
 
@@ -80,11 +80,17 @@ Everything profiled for 4D Live Today is published on APIs.io rather than in thi
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [4dlivetoday-com-mcp.yml](https://apis.io/servers/4dlivetoday-com/4dlivetoday-com-mcp-yml/)
+
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [4Dlivetoday Com Domain Security](https://apis.io/security/4dlivetoday-com/4dlivetoday-com-domain-security/)
+- [4D Live Today Domain Security](https://apis.io/security/4dlivetoday-com/4dlivetoday-com-domain-security/)
 
 ## Where to find this API
 
@@ -97,18 +103,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 13.8** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 13.9** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 56.7 |
+| Discoverability | 63.3 |
 | Contract quality | 0.0 |
-| Contract governance | 16.4 |
+| Contract governance | 4.5 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 7.1 |
-| Access clarity | 21.1 |
+| Access clarity | 29.8 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 3.4** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -133,8 +139,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/4dlivetoday-com/](https://apis.io/providers/4dlivetoday-com/).
 
